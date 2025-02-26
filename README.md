@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Tran Thanh Dat 👋
+😄 I am a student at Ton Duc University, Ho Chi Minh City. 
+🌱 I’m currently learning Computer Science at this university. 
+🔭 Currently, my goal after completing my studies is to become a data scientist.
 <!--
 **TThanhhDatt/TThanhhDatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
