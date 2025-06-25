@@ -10,7 +10,7 @@
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,py,react)](https://skillicons.dev)
 ### Artificial Intelligence
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv,ai )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv )](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab)](https://skillicons.dev)
 ### Databases
